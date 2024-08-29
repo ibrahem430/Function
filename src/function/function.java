@@ -5,7 +5,6 @@ import java.util.Scanner;
 import javax.swing.text.html.HTMLDocument.HTMLReader.IsindexAction;
 
 public class function {
-//	private static final int String = 0;
 
 	static void printmyname(String myname, int Yourbirthday, int Yourbirthmonth, int Youryearofbirth) {
 		System.out.println("welcome " + myname + " your date of birth is " +Yourbirthday+"/"+Yourbirthmonth+"/"+Youryearofbirth);
